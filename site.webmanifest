@@ -1,0 +1,15 @@
+{
+  "name": "Kotta Kopi Ponorogo — Website Concept",
+  "short_name": "Kotta Kopi",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#8c3232",
+  "theme_color": "#8c3232",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ]
+}
