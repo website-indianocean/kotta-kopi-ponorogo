@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Unofficial demonstration. Change robots settings before production launch.
